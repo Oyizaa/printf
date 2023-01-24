@@ -1,1 +1,1 @@
-my resdme
+my readme
